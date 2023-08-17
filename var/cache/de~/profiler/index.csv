@@ -1,0 +1,17 @@
+ba6cec,127.0.0.1,GET,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/sell/catalog/products/attributes/form-images/91?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw,1692293960,,200
+663f07,127.0.0.1,GET,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/configure/advanced/performance/?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw,1692293976,,200
+23a6c5,127.0.0.1,POST,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/common/notifications?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw,1692293977,,200
+76d6ea,127.0.0.1,POST,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/common/notifications?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw&rand=1692293969138,1692293977,,200
+646bb5,127.0.0.1,POST,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/common/notifications?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw,1692293980,,200
+bd99af,127.0.0.1,POST,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/common/notifications?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw&rand=1692293979371,1692293980,,200
+9888e3,127.0.0.1,POST,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/common/notifications?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw,1692293982,,200
+0a3997,127.0.0.1,POST,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/common/notifications?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw,1692294079,,200
+89dbd4,127.0.0.1,POST,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/common/notifications?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw&rand=1692294080922,1692294081,,200
+e4dbfb,127.0.0.1,POST,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/common/notifications?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw&rand=1692294097842,1692294098,,200
+760c70,127.0.0.1,POST,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/common/notifications?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw,1692294098,,200
+4485a7,127.0.0.1,POST,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/common/notifications?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw,1692294103,,200
+7fd839,127.0.0.1,POST,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/common/notifications?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw&rand=1692294102336,1692294103,,200
+06e56c,127.0.0.1,POST,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/common/notifications?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw,1692294103,,200
+16a0ac,127.0.0.1,GET,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/configure/advanced/performance/clear-cache?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw,1692294114,,302
+d6aea9,127.0.0.1,GET,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/_fragment?_path=_format%3Dhtml%26_locale%3Des-ES%26_controller%3DPrestaShopBundle%253AAdmin%252FCommon%253ArenderField,1692294140,6f86e3,200
+6f86e3,127.0.0.1,GET,http://prueba-tienda-prestashop.test/admin409redhtj/index.php/sell/catalog/products/91?_token=MnXF2pMVhOBi5ACUL4utCrVJuQsYoyRMond3yM8fcnw,1692294143,,200
